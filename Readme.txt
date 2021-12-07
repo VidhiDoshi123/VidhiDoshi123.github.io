@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Vidhi
-Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+You can visit my website here https://vidhidoshi123.github.io/index.html
